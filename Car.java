@@ -17,6 +17,6 @@ class Car{
     void display(){
         System.out.println("メーカー名:" + auto);
         System.out.println("車種" + name);
-        System.out.println("排気量:" + num + "cc");
+        System.out.println("燃費:" + num + "km/L");
     }
 }
